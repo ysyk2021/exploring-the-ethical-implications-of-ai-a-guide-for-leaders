@@ -12,7 +12,7 @@ Each chapter of this book will focus on a different aspect of AI ethics, providi
 
 We hope that this book will serve as a valuable resource for leaders who are committed to using AI in an ethical and responsible manner. Together, we can build a future where AI drives progress and innovation while upholding our most fundamental values and principles.
 
-MingHai Zheng is a writer based in Wuhan, China, who focuses on writing articles about workplace and management topics. He has written hundreds of articles on these topics and is dedicated to sharing his insights and experiences with others who are interested in improving their careers and their businesses.
+MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
 
 
 
