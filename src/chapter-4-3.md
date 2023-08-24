@@ -1,5 +1,3 @@
-Strategies for mitigating negative impacts of AI on society and the workforce
-=================================================================================================================================================
 
 As we have explored in this book, AI has the potential to bring significant benefits to society and the workforce, but it also poses ethical challenges. In this chapter, we will discuss strategies for mitigating the potential negative impacts of AI on society and the workforce.
 

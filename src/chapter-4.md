@@ -1,5 +1,3 @@
-Chapter 3: Assessing the Impact of AI on Society and the Workforce
-==================================================================
 
 Assessing the impact of AI on society and the workforce is critical to ensuring that AI is developed and used in a responsible and ethical manner. In this chapter, we'll explore the potential impact of AI on society, including employment and social inequality; evaluate the impact of AI on the workforce, including job displacement and retraining; and consider strategies for mitigating negative impacts of AI on society and the workforce.
 

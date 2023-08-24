@@ -1,5 +1,3 @@
-Evaluating the impact of AI on the workforce, including job displacement and retraining
-===========================================================================================================================================================
 
 As AI continues to evolve and become more prevalent in our society, it is essential to consider its potential impact on the workforce. In this chapter, we will explore the potential effects of AI on the workforce, including job displacement and the need for retraining.
 

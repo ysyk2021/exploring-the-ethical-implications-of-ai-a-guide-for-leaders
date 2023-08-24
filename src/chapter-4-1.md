@@ -1,5 +1,3 @@
-Examining the potential impact of AI on society, including employment and social inequality
-===============================================================================================================================================================
 
 As AI continues to gain prominence in our society, it is critical to consider its potential impact on society as a whole. In this chapter, we will explore the potential effects of AI on society, including employment and social inequality.
 

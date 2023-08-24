@@ -1,5 +1,3 @@
-Ethical Considerations in AI Development, Such as Transparency and Accountability
-=====================================================================================================================================================================
 
 Ethical considerations in AI development are critical to promoting responsible and ethical use of AI systems. In this chapter, we'll explore specific ethical considerations in AI development, such as transparency and accountability.
 

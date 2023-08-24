@@ -1,5 +1,3 @@
-Overview of Current Legal and Regulatory Landscape for AI
-==================================================================================================================
 
 As artificial intelligence (AI) becomes more prevalent, it is crucial for leaders to understand the current legal and regulatory landscape for these technologies. In this chapter, we will provide an overview of the current legal and regulatory landscape for AI.
 

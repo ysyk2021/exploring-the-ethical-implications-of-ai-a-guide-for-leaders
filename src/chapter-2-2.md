@@ -1,5 +1,3 @@
-Common Ethical Issues in AI, Including Bias and Privacy Concerns
-====================================================================================================
 
 As artificial intelligence (AI) continues to advance and become more prevalent, it is essential to consider the ethical implications of these technologies. In this chapter, we will discuss common ethical issues in AI, including bias and privacy concerns.
 

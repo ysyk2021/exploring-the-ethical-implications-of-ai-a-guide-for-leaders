@@ -1,4 +1,3 @@
-# Introduction
 
 Artificial intelligence (AI) is transforming our world, from the way we work and communicate to the products and services we use. As AI becomes increasingly prevalent, it is important for leaders to consider its ethical implications and ensure that it is developed and implemented in a responsible and accountable manner.
 
