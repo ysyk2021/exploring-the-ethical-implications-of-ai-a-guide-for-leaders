@@ -10,3 +10,7 @@ Each chapter of this book will focus on a different aspect of AI ethics, providi
 We hope that this book will serve as a valuable resource for leaders who are committed to using AI in an ethical and responsible manner. Together, we can build a future where AI drives progress and innovation while upholding our most fundamental values and principles.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng

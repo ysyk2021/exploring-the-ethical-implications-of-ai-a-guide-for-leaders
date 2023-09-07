@@ -26,3 +26,4 @@
   - [Best practices for implementing ethical AI policies and procedures](chapter-6-3.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)
+- [Our Other Books](other-books.md)
