@@ -1,5 +1,4 @@
-Chapter: Best Practices for Identifying and Addressing Ethical Considerations in AI
-===================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As AI technologies increasingly shape our personal and professional landscapes, it is paramount for leaders to understand and proactively address the ethical concerns that arise. Fostering a culture of ethical AI is essential, not just for risk mitigation, but for ensuring trust, inclusivity, and responsible growth. This chapter outlines best practices for identifying and addressing these considerations.
 

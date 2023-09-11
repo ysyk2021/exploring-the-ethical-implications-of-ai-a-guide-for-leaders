@@ -1,5 +1,4 @@
-Chapter: Ethical Considerations in AI Implementation, such as Data Privacy and Fairness
-=======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The implementation of artificial intelligence (AI) technologies brings forth a multitude of ethical considerations that demand careful attention from leaders and stakeholders. This chapter delves into two critical ethical aspects of AI implementation: data privacy and fairness, discussing their implications and best practices for addressing these concerns.
 

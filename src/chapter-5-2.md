@@ -1,5 +1,4 @@
-Chapter: Potential Legal and Regulatory Issues with AI
-======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) technologies have gained significant traction across various industries, offering unprecedented opportunities for innovation and efficiency. However, as AI systems become more integrated into our daily lives, a host of legal and regulatory challenges emerge. This chapter delves into the potential legal and regulatory issues that may arise with AI, exploring the complexities and implications for both businesses and society.
 

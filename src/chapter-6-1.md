@@ -1,5 +1,4 @@
-Chapter: Developing a Corporate Culture that Prioritizes Ethical AI
-===================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the rapidly evolving landscape of artificial intelligence (AI), developing a corporate culture that prioritizes ethical considerations is essential for responsible AI development and deployment. This chapter delves into strategies for fostering a culture that upholds ethical AI practices and aligns with the values of the organization.
 

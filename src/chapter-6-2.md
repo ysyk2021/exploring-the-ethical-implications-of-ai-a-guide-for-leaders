@@ -1,5 +1,4 @@
-Chapter: Roles and Responsibilities of Leaders in Promoting Ethical AI Initiatives
-==================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the realm of artificial intelligence (AI), ethical considerations are paramount. Leaders play a pivotal role in shaping the ethical framework within their organizations. This chapter explores the key roles and responsibilities of leaders in promoting ethical AI initiatives.
 

@@ -1,5 +1,4 @@
-Chapter: Ethical Considerations in AI Development, such as Transparency and Accountability
-==========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The development phase of artificial intelligence (AI) systems is a crucial juncture where ethical considerations must be embedded to ensure responsible and trustworthy outcomes. This chapter delves into key ethical aspects of AI development, including transparency, accountability, and the responsible use of AI technologies.
 

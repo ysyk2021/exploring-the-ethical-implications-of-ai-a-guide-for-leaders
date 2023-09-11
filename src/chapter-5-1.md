@@ -1,5 +1,4 @@
-Chapter: Overview of Current Legal and Regulatory Landscape for AI
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As artificial intelligence (AI) continues to reshape industries and society, it has become imperative to establish a legal and regulatory framework that addresses the unique ethical challenges and implications posed by AI technologies. This chapter provides an overview of the current legal and regulatory landscape for AI, examining the existing frameworks and initiatives in place to govern AI applications.
 

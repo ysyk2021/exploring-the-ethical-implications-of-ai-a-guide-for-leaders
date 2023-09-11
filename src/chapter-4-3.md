@@ -1,5 +1,4 @@
-Chapter: Strategies for Mitigating Negative Impacts of AI on Society and the Workforce
-======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As artificial intelligence (AI) continues to advance and integrate into various aspects of society and the workforce, it is essential for leaders to proactively address and mitigate the potential negative impacts. This chapter explores strategies that leaders can adopt to minimize harm and ensure that AI technologies contribute positively to both society and the workforce.
 

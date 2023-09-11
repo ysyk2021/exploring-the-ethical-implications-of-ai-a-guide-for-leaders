@@ -1,5 +1,4 @@
-Chapter: Strategies for Complying with Existing Regulations and Anticipating Future Changes
-===========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the dynamic landscape of artificial intelligence (AI), staying compliant with existing regulations while anticipating future changes is of paramount importance for leaders. This chapter explores strategies that leaders can adopt to navigate the complex regulatory environment surrounding AI and ensure ethical and legal practices.
 

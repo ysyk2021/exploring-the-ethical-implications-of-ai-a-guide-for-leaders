@@ -1,5 +1,4 @@
-Chapter: Defining AI Ethics and Its Significance in Business and Society
-========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the era of rapid technological advancement, artificial intelligence (AI) ethics has emerged as a critical topic that shapes the intersection of technology, business, and society. This chapter delves into the definition of AI ethics and its profound significance in both business operations and broader societal contexts.
 
